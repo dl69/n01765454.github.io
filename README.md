@@ -6,10 +6,12 @@ A short description
 
 Steps to install
 
-#usage
+# Usage
 
 How to use
 
-#authors
+# Authors
 
 Dominic lalande
+Huesyin
+
